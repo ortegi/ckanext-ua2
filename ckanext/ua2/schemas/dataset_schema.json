@@ -17,6 +17,18 @@
             "field_name": "owner_org",
             "label": "Owner orgs",
             "form_placeholder": "eg. org omc"
+        },
+        {
+          "field_name": "author",
+          "label": "Author",
+          "form_placeholder": "Joe Bloggs",
+          "display_property": "dc:creator",
+          "display_snippet": null
+        },
+        {
+          "field_name": "author_email",
+          "label": "Author Email",
+          "form_placeholder": "joe@example.com"
         }
     ],
     "resource_fields": [
