@@ -13,20 +13,6 @@
             "label": "URL",
             "form_placeholder": "eg. my-dataset"
         },
-        {
-            "field_name": "owner_org",
-            "label": "Owner orgs",
-            "form_placeholder": "eg. org omc"
-        },
-        {
-            "field_name": "author",
-            "label": "Author",
-            "form_placeholder": "Joe Bloggs"
-        },
-        {
-            "field_name": "author_email",
-            "label": "Author Email"
-        }
     ],
     "resource_fields": [
         {
