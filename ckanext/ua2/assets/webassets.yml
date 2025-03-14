@@ -1,0 +1,14 @@
+# ua2-js:
+#   filter: rjsmin
+#   output: ckanext-ua2/%(version)s-ua2.js
+#   contents:
+#     - js/ua2.js
+#   extra:
+#     preload:
+#       - base/main
+
+# ua2-css:
+#   filter: cssrewrite
+#   output: ckanext-ua2/%(version)s-ua2.css
+#   contents:
+#     - css/ua2.css
