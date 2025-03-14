@@ -12,6 +12,11 @@
             "field_name": "name",
             "label": "URL",
             "form_placeholder": "eg. my-dataset"
+        },
+         {
+            "field_name": "owner_org",
+            "label": "Owner orgs",
+            "form_placeholder": "eg. org omc"
         }
     ],
     "resource_fields": [
